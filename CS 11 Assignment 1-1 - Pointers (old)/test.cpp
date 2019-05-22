@@ -4,5 +4,5 @@ using std::endl;
 
 int main() {
     cout << "hello world!" << endl;
-    return;
+    return 0;
 }
