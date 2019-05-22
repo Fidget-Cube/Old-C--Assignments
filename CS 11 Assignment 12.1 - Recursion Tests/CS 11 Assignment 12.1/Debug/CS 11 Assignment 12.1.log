@@ -1,0 +1,5 @@
+﻿  a12_2.cpp
+  a12_1.cpp
+  Generating Code...
+a12_2.obj : error LNK2005: _main already defined in a12_1.obj
+E:\Max\CS 11 Assignment 12.1\Debug\CS 11 Assignment 12.1.exe : fatal error LNK1169: one or more multiply defined symbols found

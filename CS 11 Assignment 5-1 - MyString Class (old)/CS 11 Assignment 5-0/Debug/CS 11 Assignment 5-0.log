@@ -1,0 +1,6 @@
+﻿  mystring.cpp
+e:\max\cs 11 assignment 5-1\cs 11 assignment 5-0\mystring.cpp(77): warning C4018: '<=': signed/unsigned mismatch
+e:\max\cs 11 assignment 5-1\cs 11 assignment 5-0\mystring.cpp(86): warning C4018: '<=': signed/unsigned mismatch
+  client.cpp
+  Generating Code...
+  CS 11 Assignment 5-0.vcxproj -> E:\Max\CS 11 Assignment 5-1\Debug\CS 11 Assignment 5-0.exe

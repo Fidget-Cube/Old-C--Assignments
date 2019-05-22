@@ -1,0 +1,3 @@
+﻿  binarytree.cpp
+e:\max\cs 11 assignment 13 - binary trees\project1\binarytree.cpp(177): warning C4715: 'binarytree::find_and_remove_max': not all control paths return a value
+  Project1.vcxproj -> E:\Max\CS 11 Assignment 13 - Binary Trees\Debug\Project1.exe

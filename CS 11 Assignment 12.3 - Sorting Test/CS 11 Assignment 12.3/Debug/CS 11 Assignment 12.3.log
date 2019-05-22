@@ -1,0 +1,3 @@
+﻿  a12_3.cpp
+e:\max\cs 11 assignment 12.3\cs 11 assignment 12.3\a12_3.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CS 11 Assignment 12.3.vcxproj -> E:\Max\CS 11 Assignment 12.3\Debug\CS 11 Assignment 12.3.exe

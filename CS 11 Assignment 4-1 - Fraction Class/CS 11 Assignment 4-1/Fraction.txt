@@ -1,0 +1,20 @@
+# This file shows the patterns your Fraction class needs to be able to
+# read.  A Fraction may be just a single integer, two integers separated by
+# a slash, or a mixed number which consists of an integer, followed by a +
+# and then two integers with a slash.  A minus sign may appear in the
+# very first character to indicate the whole Fraction is negative.
+# No white space is allowed in between the component parts of a Fraction.
+#
+1/3
+3/6
+3072/4096
+-4/5
+12/2
+5
+-8
+21/15
+-50/3
+1+1/4
+1+5/5
+-4+3/12
+-10+10/12
